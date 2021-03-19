@@ -1,0 +1,87 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.container > div{
+    padding-left: 40px;
+}
+
+.above{
+    background-color: #FFD100 !important;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.below{
+    background-color: white !important;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    color: #aaa;
+}
+
+.title{
+    font-size: 2.5em;
+    font-weight: 600;
+}
+
+.text_below_title{
+    font-weight: 300;
+}
+
+#data_form{
+    flex-direction: column;
+    display: flex;
+    flex: 1;
+    margin-top: 3vh;
+}
+
+#data_form > input{
+    border: none;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    outline: none !important;
+    font-size: 1.1rem;
+    line-height: 3rem;
+    margin-right: 40px;
+}
+
+#data_form > input:focus{
+    border-color: #FFD100;
+}
+
+#data_form > button{
+    color: white;
+    background-color: #FFD100;
+    border-color: orange;
+    border-width: 0;
+    font-weight: 300 !important;
+    font-size: 1rem;
+    line-height: 2rem;
+    border-radius: 0.25rem;
+    width: 3.5rem;
+    margin-top: 4vh;
+}
+
+#data_form > button:focus{
+    outline: none;
+}
+
+.jump{
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.jump_tip{
+    font-size: .75rem;
+}
+
+.jump_link{
+    font-size: .9rem;
+    color: #FFD100;
+}

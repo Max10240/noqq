@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d5525f-d178-440a-b237-b63af9a5c37a" name="Default Changelist" comment="``">
+      <change beforePath="$PROJECT_DIR$/.electron-vue/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/.electron-vue/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/css/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/css/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/css/icon_font.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/css/icon_font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/css/initial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/css/initial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/js/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/account_manage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/account_manage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/chatroom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/chatroom.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/groupchats.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/groupchats.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/groups_base.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/groups_base.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/messages.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/messages.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/movement.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/movement.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/person_info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/person_info.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/persons.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/persons.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/refresh.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/refresh.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/search_group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/search_group.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/select_server_path.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/select_server_path.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/sidebarInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/sidebarInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/testonly.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/testonly.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/theme_base.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/theme_base.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/views/message.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/message.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/views/msgBox.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/msgBox.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/views/navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/views/person.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/person.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/views/press_shandow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/press_shandow.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/views/updraw.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/updraw.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/t.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1oc5ZdgvH6hrgxEvT81KMouIye2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../django-learn/forum" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/renderer/assets/imgs" />
+      <recent name="$PROJECT_DIR$/src/renderer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs>
+        <env name="NODE_ENV" value="development" />
+      </envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d5525f-d178-440a-b237-b63af9a5c37a" name="Default Changelist" comment="" />
+      <created>1613573094229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613573094229</updated>
+      <workItem from="1613573099110" duration="1043000" />
+      <workItem from="1613574590075" duration="1015000" />
+      <workItem from="1613575875839" duration="69608000" />
+      <workItem from="1613805248818" duration="5376000" />
+      <workItem from="1613811263459" duration="20959000" />
+      <workItem from="1613881744091" duration="10453000" />
+      <workItem from="1613902798051" duration="22437000" />
+      <workItem from="1613974132432" duration="1287000" />
+      <workItem from="1614311980047" duration="3972000" />
+      <workItem from="1614672225571" duration="19537000" />
+      <workItem from="1614742644317" duration="68000" />
+      <workItem from="1614755688602" duration="16914000" />
+      <workItem from="1615121237539" duration="8219000" />
+      <workItem from="1615797321506" duration="41208000" />
+      <workItem from="1615895153684" duration="2081000" />
+      <workItem from="1615947852672" duration="11000" />
+      <workItem from="1615948116409" duration="216000" />
+      <workItem from="1615966781976" duration="10329000" />
+      <workItem from="1615977375247" duration="57504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615948201519">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="836" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615948201519" />
+    <state x="997" y="149" width="878" height="813" key="CommitChangelistDialog2" timestamp="1615984234582">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="997" y="149" width="878" height="813" key="CommitChangelistDialog2/0.32.1920.1048@0.32.1920.1048" timestamp="1615984234582" />
+    <state x="1118" y="312" key="EnvironmentVariablesDialog" timestamp="1613878691295">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1118" y="312" key="EnvironmentVariablesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1613878691295" />
+    <state x="398" y="313" key="FileChooserDialogImpl" timestamp="1615366975298">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="398" y="313" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1615366975298" />
+    <state x="1245" y="468" key="Gitee.CreateGistDialog" timestamp="1615121322730">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1245" y="468" key="Gitee.CreateGistDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615121322730" />
+    <state width="904" height="294" key="GridCell.Tab.0.bottom" timestamp="1616155584621">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="294" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584621" />
+    <state width="904" height="294" key="GridCell.Tab.0.center" timestamp="1616155584618">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="294" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584618" />
+    <state width="904" height="294" key="GridCell.Tab.0.left" timestamp="1616155584616">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="294" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584616" />
+    <state width="904" height="294" key="GridCell.Tab.0.right" timestamp="1616155584620">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="294" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584620" />
+    <state width="904" height="344" key="GridCell.Tab.1.bottom" timestamp="1613881497332">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497332" />
+    <state width="904" height="344" key="GridCell.Tab.1.center" timestamp="1613881497332">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497332" />
+    <state width="904" height="344" key="GridCell.Tab.1.left" timestamp="1613881497332">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497331" />
+    <state width="904" height="344" key="GridCell.Tab.1.right" timestamp="1613881497332">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497332" />
+    <state width="904" height="344" key="GridCell.Tab.2.bottom" timestamp="1613881497333">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.2.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497333" />
+    <state width="904" height="344" key="GridCell.Tab.2.center" timestamp="1613881497333">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.2.center/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497333" />
+    <state width="904" height="344" key="GridCell.Tab.2.left" timestamp="1613881497332">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.2.left/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497332" />
+    <state width="904" height="344" key="GridCell.Tab.2.right" timestamp="1613881497333">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.2.right/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497333" />
+    <state width="904" height="344" key="GridCell.Tab.3.bottom" timestamp="1613881497334">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.3.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497334" />
+    <state width="904" height="344" key="GridCell.Tab.3.center" timestamp="1613881497333">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.3.center/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497333" />
+    <state width="904" height="344" key="GridCell.Tab.3.left" timestamp="1613881497333">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.3.left/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497333" />
+    <state width="904" height="344" key="GridCell.Tab.3.right" timestamp="1613881497334">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="904" height="344" key="GridCell.Tab.3.right/0.32.1920.1048@0.32.1920.1048" timestamp="1613881497334" />
+    <state x="111" y="190" width="1007" height="732" key="SettingsEditor" timestamp="1615121219199">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="111" y="190" width="1007" height="732" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1615121219199" />
+    <state x="1036" y="291" key="Vcs.Push.Dialog.v2" timestamp="1615977710239">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1036" y="291" key="Vcs.Push.Dialog.v2/0.32.1920.1048@0.32.1920.1048" timestamp="1615977710239" />
+    <state x="1094" y="173" width="701" height="766" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1615859732121">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1094" y="173" width="701" height="766" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1615859732121" />
+    <state x="525" y="339" width="645" height="566" key="find.popup" timestamp="1616130131732">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="525" y="339" width="645" height="566" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1616130131732" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1615869274529">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1615869274529" />
+    <state x="1103" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1613726884995">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1103" y="263" width="672" height="678" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1613726884995" />
+  </component>
+</project>

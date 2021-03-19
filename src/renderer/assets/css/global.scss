@@ -1,0 +1,266 @@
+$theme_color: #66daff;
+$theme_deep_color: rgb(0, 164, 238);
+$theme_bg_color: rgb(56, 199, 254);
+$theme-light-color: #66daff;
+$theme_border_color: #4da8fe;
+$theme_box_shadow_color: #0b7fec;
+$theme_disable_color: rgba(126, 160, 185, 0.49);
+$theme_background_color: #ffffff;
+$theme_bg_light_gray: #fbfbfb;
+$theme_bg_deep_light_gray: rgba(242, 242, 246, 0.98);
+$theme_bg_deeper_light_gray: rgb(242, 242, 242);
+
+$theme-normal-font-color: black;
+$theme-normal-font-color-white: white;
+$theme-tip-font-color: gray;
+
+$small-font-size: .7rem;
+$middle-small-font-size: .8rem;
+
+$theme-padding-l-r-width: 1rem;
+$footer-height: 3.75rem;
+
+$font-bg-gray: rgb(225, 226, 230);
+$icon-color: #a7a9b9;
+
+.abs-root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.bigger-font {
+  font-size: 1.5rem;
+}
+
+.middle-bigger-font {
+  font-size: 1.25rem;
+}
+
+.small-font {
+  font-size: $small-font-size;
+}
+
+.middle-small-font {
+  font-size: $middle-small-font-size;
+}
+
+.tip-font-color {
+  color: $theme-tip-font-color;
+}
+
+.normal-font-color-white {
+  color: $theme-normal-font-color-white;
+}
+
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-between {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-around {
+  justify-content: space-around;
+  align-items: center;
+}
+
+.flex-ac {
+  align-items: center;
+}
+
+.flex-jc {
+  justify-content: center;
+}
+
+.scroll-bar {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.fill-row {
+  width: 100%;
+}
+
+.fill-col {
+  height: 100%;
+}
+
+.parent {
+  position: relative;
+}
+
+.child {
+  position: absolute;
+}
+
+.avatar {
+  border-radius: 50%;
+  background-size: 100%;
+}
+
+.theme-bg-white {
+  background-color: $theme-background_color;
+}
+
+.theme-padding-l-r {
+  padding-left: $theme-padding-l-r-width;
+  padding-right: $theme-padding-l-r-width;
+}
+
+.theme-padding-l-r-parent > * {
+  padding-left: $theme-padding-l-r-width;
+  padding-right: $theme-padding-l-r-width;
+}
+
+.index-body-last-child {
+  padding-bottom: $footer-height;
+}
+
+
+.fit-width-swiper {
+  .swiper-slide {
+    width: fit-content !important;
+  }
+}
+
+.flex-open-up {
+  flex: 1;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.drag {
+  -webkit-app-region: drag;
+}
+
+.pointer {
+  cursor: pointer;
+
+  * {
+    cursor: pointer;
+  }
+}
+
+
+/*Slide effect*/
+
+$slide-duration: .4s;
+@keyframes slideInLeft {
+  from {
+    transform: translate3d(100%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translate3d(0%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(-100%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+
+.slide-left-enter-active {
+  position: fixed;
+  top: 0;
+  left: 0%;
+  width: 100vw;
+  height: 100vh;
+  animation: slideInLeft $slide-duration;
+}
+
+.slide-left-leave-active {
+  position: fixed;
+  top: 0;
+  left: 0%;
+  width: 100vw;
+  height: 100vh;
+  animation: slideInRight $slide-duration;
+}
+
+
+@keyframes slideOutLeft {
+  from {
+    transform: translate3d(-100%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(0%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes slideOutRight {
+  from {
+    transform: translate3d(0%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+  to {
+    transform: translate3d(100%, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 1;
+  }
+}
+
+.slide-right-enter-active {
+  position: fixed;
+  top: 0;
+  left: 0%;
+  width: 100vw;
+  height: 100vh;
+  animation: slideOutLeft $slide-duration;
+}
+
+.slide-right-leave-active {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  animation: slideOutRight $slide-duration;
+}
