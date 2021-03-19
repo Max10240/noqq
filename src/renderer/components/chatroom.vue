@@ -337,7 +337,7 @@
                     onFinish: d => {
                         if (d.filePaths) {
                             d.filePaths.forEach(p => {
-                                let to = path.join(this.$getBotServerDataPath('image'), relativePath);
+                                // let to = path.join(this.$getBotServerDataPath('image'), relativePath);
                                 let uploadCallback = () => {
                                     // console.log("fuck to", to);
                                     let that = this;
@@ -352,7 +352,7 @@
                                             // "msgId": 90,
                                             "toType": this.type,
                                         },
-                                        "body": {url: `file:///${to}`},
+                                        "body": {url: `file:///${p}`},
                                     };
 
                                     // this.$stt.msgWs.websocket.send(JSON.stringify(sendData));
@@ -372,8 +372,8 @@
                                         this.$axios.get('/send_private_msg', {
                                             params: {
                                                 user_id: this.currentUserId,
-                                                message: `[CQ:image,file=${relativePath}]`,
-                                                // message: `[CQ:image,file=///${p}]`,
+                                                // message: `[CQ:image,file=${relativePath}]`,
+                                                message: `[CQ:image,file=file:///${p}]`,
                                             }
                                         }).then(res => {
                                             this.handleMsgReply(res, id)
@@ -384,8 +384,8 @@
                                         this.$axios.get('/send_group_msg', {
                                             params: {
                                                 group_id: this.currentUserId,
-                                                message: `[CQ:image,file=${relativePath}]`,
-                                                // message: `[CQ:image,file=///${p}]`,
+                                                // message: `[CQ:image,file=${relativePath}]`,
+                                                message: `[CQ:image,file=file:///${p}]`,
                                             }
                                         }).then(res => {
                                             this.handleMsgReply(res, id)
@@ -399,13 +399,16 @@
                                     this.$store.state.selfSendMsgLock[this.currentUserId] = (this.$store.state.selfSendMsgLock[this.currentUserId] || 0) + 1;
                                     this.text = "";
                                 };
-                                try {
-                                    fs.linkSync(p, to);
-                                    uploadCallback();
-                                } catch (e) {
-                                    console.log("can't make link", e.message);
-                                    fs.copyFile(p, to, uploadCallback);
-                                }
+
+                                uploadCallback();
+
+                                // try {
+                                //     fs.linkSync(p, to);
+                                //     uploadCallback();
+                                // } catch (e) {
+                                //     console.log("can't make link", e.message);
+                                //     fs.copyFile(p, to, uploadCallback);
+                                // }
 
 
                             });
