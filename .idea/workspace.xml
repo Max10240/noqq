@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89d5525f-d178-440a-b237-b63af9a5c37a" name="Default Changelist" comment="``">
       <change beforePath="$PROJECT_DIR$/.electron-vue/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/.electron-vue/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
@@ -146,7 +147,7 @@
       <workItem from="1615947852672" duration="11000" />
       <workItem from="1615948116409" duration="216000" />
       <workItem from="1615966781976" duration="10329000" />
-      <workItem from="1615977375247" duration="57504000" />
+      <workItem from="1615977375247" duration="58178000" />
     </task>
     <servers />
   </component>
