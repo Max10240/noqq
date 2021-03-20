@@ -17,6 +17,7 @@
 
 #### Build Setup
 ``` bash
+    git clone -b master https://gitee.com/wangbaolong36gmail/noqq.git  --dept=1
     # install dependencies
     npm install
     
