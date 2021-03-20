@@ -36,6 +36,26 @@
 
 ---
 
+# Preview:
+### 主界面
+- <img src="readme_src/imgs/full_full.png"  width = "70%" />
+- <img src="readme_src/imgs/full_left.png"  width = "70%" />
+- <img src="readme_src/imgs/full_normal.png"  width = "70%" />
+ 
+- <img src="readme_src/imgs/messages.png"  style="zoom:50%" />
+- <img src="readme_src/imgs/chatroom_face_img.png"  style="zoom:50%" />
+- <img src="readme_src/imgs/img_preview.png"  style="zoom:50%" />
+- <img src="readme_src/imgs/chatroom_video.png"  style="zoom:50%" />
+
+- <img src="readme_src/imgs/persons.png"  style="zoom:50%" />
+- <img src="readme_src/imgs/group_person.png"  style="zoom:50%" />
+- <img src="readme_src/imgs/group_chats.png"  style="zoom:50%" />
+- <img src="readme_src/imgs/movement.png"  style="zoom:50%" />
+
+    
+    
+    
+
 
 
 
