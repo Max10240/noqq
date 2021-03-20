@@ -9,7 +9,7 @@ if (!fs.existsSync(fileDownloadPath)) {
     fs.mkdirSync(fileDownloadPath)
 }
 
-const DownloadManager = require("electron-download-manager");
+const DownloadManager = require("../renderer/assets/js/file-downloader");
 DownloadManager.register({
     downloadFolder: fileDownloadPath,
 });
