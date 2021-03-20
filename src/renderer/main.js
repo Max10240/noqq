@@ -215,21 +215,21 @@ store.state.$handleWsMsg = handleWsMsg;
 router.beforeEach((to, from, next) => {
     let path = to.fullPath;
     // if (getCookie('userid')) {
-    if (!store.state.serverDataPath) {
-        if (path === select_server_path) {
-            next();
-            return;
-        }
-        let localStoreDataPath = json.load(json.constKeys.serverDataPath);
-        if (localStoreDataPath && fs.existsSync(localStoreDataPath)) {
-            store.state.serverDataPath = localStoreDataPath;
-        } else {
-            next({
-                path: select_server_path
-            });
-            return;
-        }
-    }
+    // if (!store.state.serverDataPath) {
+    //     if (path === select_server_path) {
+    //         next();
+    //         return;
+    //     }
+    //     let localStoreDataPath = json.load(json.constKeys.serverDataPath);
+    //     if (localStoreDataPath && fs.existsSync(localStoreDataPath)) {
+    //         store.state.serverDataPath = localStoreDataPath;
+    //     } else {
+    //         next({
+    //             path: select_server_path
+    //         });
+    //         return;
+    //     }
+    // }
     if (1) {
         if (!store.state.inited) {
             store.state.inited = true;

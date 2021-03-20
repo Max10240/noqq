@@ -11,7 +11,7 @@
 <script>
     import {getSearch} from './assets/js/base'
     export default {
-        name: 'my-project',
+        name: 'qq',
         components: {},
         data() {
             return {
