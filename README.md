@@ -18,8 +18,12 @@
 #### Build Setup
 ``` bash
     git clone -b master https://gitee.com/wangbaolong36gmail/noqq.git  --dept=1
+    
+    # 注意: 将static/dependencies.txt 的内容添至package.json的"dependencies"字段 
     # install dependencies
     npm install
+
+    # install 结束，重新清空"dependencies"字段(否则下面的命令将执行失败)
     
     # serve with hot reload at localhost:9080
     npm run dev
