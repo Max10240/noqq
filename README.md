@@ -1,7 +1,7 @@
 # 使用：
 ```bash
     git clone -b release https://gitee.com/wangbaolong36gmail/noqq.git  --dept=1
-    cd noqq
+    cd noqq/bin
     # 修改config.hjson, 填入qq账号密码, 然后
     ./server.qqserver
     # 按照提示信息完成登录
