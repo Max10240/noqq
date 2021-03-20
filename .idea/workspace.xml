@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89d5525f-d178-440a-b237-b63af9a5c37a" name="Default Changelist" comment="``">
-      <change beforePath="$PROJECT_DIR$/.electron-vue/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/.electron-vue/build.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/css/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/css/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/css/icon_font.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/css/icon_font.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/css/initial.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/css/initial.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/js/base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/assets/js/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/account_manage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/account_manage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/chatroom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/chatroom.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/contact.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/groupchats.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/groupchats.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/groups_base.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/groups_base.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/messages.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/messages.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/movement.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/movement.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/person_info.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/person_info.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/persons.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/persons.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/refresh.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/refresh.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/search_group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/search_group.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/select_server_path.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/select_server_path.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/sidebarInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/sidebarInfo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/testonly.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/testonly.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/theme_base.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/theme_base.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/views/message.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/message.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/views/msgBox.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/msgBox.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/views/navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/views/person.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/person.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/views/press_shandow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/press_shandow.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/views/updraw.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/views/updraw.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/t.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/t.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/electron/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/electron/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +46,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../django-learn/forum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/renderer/assets/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/renderer/assets/js" />
       <recent name="$PROJECT_DIR$/src/renderer/assets/imgs" />
       <recent name="$PROJECT_DIR$/src/renderer" />
     </key>
@@ -148,6 +113,8 @@
       <workItem from="1615948116409" duration="216000" />
       <workItem from="1615966781976" duration="10329000" />
       <workItem from="1615977375247" duration="58178000" />
+      <workItem from="1616220187317" duration="862000" />
+      <workItem from="1616221662774" duration="784000" />
     </task>
     <servers />
   </component>
@@ -159,6 +126,10 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="836" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615948201519" />
+    <state x="1171" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616221090151">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1171" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1616221090151" />
     <state x="997" y="149" width="878" height="813" key="CommitChangelistDialog2" timestamp="1615984234582">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
@@ -175,22 +146,22 @@
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
     <state x="1245" y="468" key="Gitee.CreateGistDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1615121322730" />
-    <state width="904" height="294" key="GridCell.Tab.0.bottom" timestamp="1616155584621">
+    <state width="904" height="447" key="GridCell.Tab.0.bottom" timestamp="1616222304221">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="904" height="294" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584621" />
-    <state width="904" height="294" key="GridCell.Tab.0.center" timestamp="1616155584618">
+    <state width="904" height="447" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1616222304221" />
+    <state width="904" height="447" key="GridCell.Tab.0.center" timestamp="1616222304218">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="904" height="294" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584618" />
-    <state width="904" height="294" key="GridCell.Tab.0.left" timestamp="1616155584616">
+    <state width="904" height="447" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1616222304218" />
+    <state width="904" height="447" key="GridCell.Tab.0.left" timestamp="1616222304217">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="904" height="294" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584616" />
-    <state width="904" height="294" key="GridCell.Tab.0.right" timestamp="1616155584620">
+    <state width="904" height="447" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1616222304217" />
+    <state width="904" height="447" key="GridCell.Tab.0.right" timestamp="1616222304219">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
-    <state width="904" height="294" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1616155584620" />
+    <state width="904" height="447" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1616222304219" />
     <state width="904" height="344" key="GridCell.Tab.1.bottom" timestamp="1613881497332">
       <screen x="0" y="32" width="1920" height="1048" />
     </state>
