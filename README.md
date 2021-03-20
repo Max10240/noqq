@@ -44,6 +44,7 @@
  
 - <img src="readme_src/imgs/messages.png"  style="zoom:50%" />
 - <img src="readme_src/imgs/chatroom_face_img.png"  style="zoom:50%" />
+#### 图片预览
 - <img src="readme_src/imgs/img_preview.png"  style="zoom:50%" />
 - <img src="readme_src/imgs/chatroom_video.png"  style="zoom:50%" />
 
