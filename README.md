@@ -1,6 +1,6 @@
 # 使用：
 ```bash
-    git clone -b release https://gitee.com/wangbaolong36gmail/noqq.git  --dept=1
+    git clone -b release https://gitee.com/wangbaolong36gmail/noqq.git  --depth=1
     cd noqq/bin
     # 修改config.hjson, 填入qq账号密码, 然后
     ./server.qqserver
@@ -17,7 +17,7 @@
 
 #### Build Setup
 ``` bash
-    git clone -b master https://gitee.com/wangbaolong36gmail/noqq.git  --dept=1
+    git clone -b master https://gitee.com/wangbaolong36gmail/noqq.git  --depth=1
     
     # 注意: 将static/dependencies.txt 的内容添至package.json的"dependencies"字段 
     # install dependencies
